@@ -1,0 +1,28 @@
+{
+  "name": "animatex",
+  "version": "1.0.0",
+  "description": "AnimateX – A next-generation CSS animation framework with 312+ modern animations. Lightweight, customizable, and easy to use.",
+  "main": "dist/animatex.min.css",
+  "style": "dist/animatex.min.css",
+  "keywords": [
+    "css",
+    "animations",
+    "animatex",
+    "css-library",
+    "ui-effects",
+    "motion",
+    "frontend",
+    "web-design",
+    "transitions"
+  ],
+  "author": "ProgrammerKR",
+  "license": "MIT",
+  "homepage": "https://github.com/ProgrammerKR/AnimateX#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ProgrammerKR/AnimateX.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProgrammerKR/AnimateX/issues"
+  }
+}
